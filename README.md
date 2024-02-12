@@ -1,13 +1,21 @@
+# Git & Github Hands-on Labs
 
-# Lab1 for DevOps WE
+A simple assignment on using git & github; branch, merge and pull request
 
-A testing to create a readme file for the lab.
+### Getting started
 
-## 1. Invitation
-Invite your classmate to collaborate on your project.
+To get started with this project, follow these steps:
 
-## 2. Task
-Request your classmate to clone and edit the project by sending them an invitation. and ask them to submit a pull request after that.
+1. Fork this repository
 
-## 3. Merge
-Check the pull request and merge.
+2. Clone the repository to your local machine: i.e ```git clone repo-url```
+
+3. Navigate to the project directory: i.e ```cd repo-dir```
+
+4. Modify the project according to your tasks.
+
+5. Once you're satisfied with the changes, commit and push them to your repository.
+
+6. Then create a **Pull Request**
+
+*don't forget to summit your assignment in google classroom*
